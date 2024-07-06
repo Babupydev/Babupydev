@@ -5,11 +5,15 @@
 📚 Currently working on projects related to stock market.
 
 🔧 Skilled in:
-- Python & Django
-- RESTful APIs
-- AWS
-- JavaScript & React
-- SQL & Databases
+Languages: 🐍 Python, 🐚 Bash scripting, 🌐 JavaScript
+Tools/Frameworks: 🌐 Django, 🌐 Django Rest Framework, 🐼 Pandas, 🔢 NumPy, 🤖 Selenium, 🍀 Flask
+Database: 📊 NoSQL – MongoDB, 🔥 Firebase, 🐘 PostgreSQL
+Operating Systems: 💻 Linux
+Cloud: ☁️ AWS, ☁️ Azure, 🌐 VPS servers
+Application Scaling: 🐳 Docker & 🚢 Kubernetes
+Messaging/Queueing: ☁️ AWS SQS, 🌿 Celery
+Services: ☁️ CloudWatch, 🧩 SAM (Serverless Application Model), λ Lambda, 🚪 API Gateway, 👤 Face Recognition
+General: 📊 DBMS, 🧊 OOPs Concepts
 
 🌱 Always learning and exploring new technologies to enhance my skill set.
 
