@@ -1,5 +1,5 @@
 👋 Hi, I'm Babu Malik!
-[Profile Image](https://media.licdn.com/dms/image/D5616AQG9UqQDiKDLww/profile-displaybackgroundimage-shrink_350_1400/0/1698398083615?e=1725494400&v=beta&t=9uWCMDau_C55fL6yQ3F-tZzcu4s93JTCa6gOEFqutqc)
+
 💻 Python Software Developer with a passion for building web applications using Django and Python.
 
 📚 Currently working on projects https://www.equityjudge.com/
