@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Babu Malik!
 
-<!--
-**Babupydev/Babupydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Software Developer with a passion for building web applications using Django and Python.
 
-Here are some ideas to get you started:
+📚 Currently working on projects related to stock market.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skilled in:
+- Python & Django
+- RESTful APIs
+- AWS
+- JavaScript & React
+- SQL & Databases
+
+🌱 Always learning and exploring new technologies to enhance my skill set.
+
+🚀 Check out my projects on GitHub to see what I've been working on!
+
+📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/malik-babu-b52579217/)
+- [HackerRank](https://www.hackerrank.com/profile/malikbabupydev01)
