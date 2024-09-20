@@ -1,56 +1,115 @@
 # 👋 Hello, I'm **Babu Malik**!
 
-### 🧑‍💻 **Passionate Python Software Developer**  
-I specialize in building efficient, scalable web applications using **Python** and **Django**, focusing on clean code and cutting-edge technology.
-
-### 🚀 **Currently working on:**  
-**[EquityJudge](https://www.equityjudge.com/)** – A stock market analytics platform providing real-time data insights powered by live BSE data.
+### 🧑‍💻 Passionate Python Software Developer
+I thrive on crafting **scalable web applications** with **Python** and **Django**. I aim to write clean, efficient code that solves real-world challenges.
 
 ---
 
-### 🔧 **Technical Skills:**
-
-#### **Languages:**  
-🐍 **Python** | 🐚 **Bash Scripting** | 🌐 **JavaScript**
-
-#### **Frameworks & Tools:**  
-🌐 **Django** | 🍃 **Flask** | 🌐 **Django Rest Framework** | 📊 **Pandas** | 🔢 **NumPy** | 🤖 **Selenium** | 🔧 **Celery**
-
-#### **Databases:**  
-📊 **PostgreSQL** | 🔥 **Firebase** | NoSQL – **MongoDB**
-
-#### **Cloud & DevOps:**  
-☁️ **AWS** | ☁️ **Azure** | 💻 **VPS Servers** | 🐳 **Docker** | 🚢 **Kubernetes** | ☁️ **CloudWatch** | ☁️ **AWS Lambda** | 🚪 **API Gateway**
-
-#### **Application Scaling & Messaging:**  
-🐳 **Docker** | 🚢 **Kubernetes** | ☁️ **AWS SQS** | 🌿 **Celery**  
+### 🚀 Currently Working On:
+**[EquityJudge](https://www.equityjudge.com/)**  
+A stock market analytics platform delivering real-time data insights powered by live BSE data.
 
 ---
 
-### 📚 **Continual Learning & Projects:**
+## 🛠️ Technical Skills
 
-I'm constantly enhancing my skill set and working on interesting projects. Check out my latest work on **[GitHub](https://github.com/malikbabupydev01)**.
+### **Languages:**  
+- 🐍 Python  
+- 🐚 Bash Scripting  
+- 🌐 JavaScript  
+
+### **Frameworks & Tools:**  
+- 🌐 Django  
+- 🍃 Flask  
+- 🌐 Django Rest Framework  
+- 📊 Pandas  
+- 🔢 NumPy  
+- 🤖 Selenium  
+- 🔧 Celery  
+
+### **Databases:**  
+- 📊 PostgreSQL  
+- 🔥 Firebase  
+- NoSQL – MongoDB  
+
+### **Cloud & DevOps:**  
+- ☁️ AWS  
+- ☁️ Azure  
+- 💻 VPS Servers  
+- 🐳 Docker  
+- 🚢 Kubernetes  
+- ☁️ CloudWatch  
+- ☁️ AWS Lambda  
+- 🚪 API Gateway  
+
+### **Application Scaling & Messaging:**  
+- 🐳 Docker  
+- 🚢 Kubernetes  
+- ☁️ AWS SQS  
+- 🌿 Celery  
 
 ---
 
-### 🖥️ **Fun Projects:**  
-- **Face Recognition Systems** using Python libraries  
-- **Serverless Architecture** with AWS Lambda and API Gateway  
-- **Automated Stock Market Insights** using BSE data feeds
+## 🏅 Certifications
+- **AWS Certified Solutions Architect**
+- **Google Cloud Professional Data Engineer**
+- **Python for Data Science** – Coursera
 
 ---
 
-### 🎯 **What drives me:**  
-- Writing **clean, efficient code**
-- Building apps that scale effortlessly
-- Exploring **AI/ML** applications for real-world problems
+## 🤝 Open Source Contributions
+- Contributed to the **Django** project for security patches.
+- Developed Python libraries for data processing in **Pandas**.
 
 ---
 
-### 💬 **Let's Connect:**
+## 🚀 Featured Projects
+- **[EquityJudge](https://www.equityjudge.com/)**  
+  Stock market analytics tool powered by live BSE data.
+  
+- **[Video Subtitles Extractor](https://github.com/malikbabupydev01/video-subtitles-extractor)**  
+  A Django-based app that processes videos and extracts subtitles in multiple languages.
 
-Feel free to reach out and collaborate on exciting new ventures!
+---
 
+## 🌱 Currently Learning
+- Machine Learning with **Scikit-learn**
+- **FastAPI** for building high-performance APIs
+- **Terraform** for infrastructure as code
+
+---
+
+## 🛠️ Development Setup
+- **OS**: Ubuntu 22.04
+- **Editor**: VSCode, PyCharm
+- **Version Control**: Git & GitHub
+
+---
+
+## 📬 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/malik-babu-b52579217/)  
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/malikbabupydev01)  
-- 🌐 [Personal Website](#)
+- ✉️ Email: malikbabu@example.com  
+- 🐦 Twitter: [@malikbabu](https://twitter.com/malikbabu)
+
+---
+
+## 📝 Blog & Articles
+- [Understanding Django Signals](https://exampleblog.com/django-signals)
+- [Building Scalable REST APIs with Python](https://exampleblog.com/rest-api-python)
+
+---
+
+## 👥 Community Involvement
+- Active member of **Django Developers Community**
+- Speaker at local **Python Meetups**
+
+---
+
+## 🎯 Fun Fact
+When I'm not coding, you can find me playing chess or exploring photography! 🏞️
+
+---
+
+### 💬 Let's Connect!
+Feel free to reach out and collaborate on exciting new ventures! 🚀
