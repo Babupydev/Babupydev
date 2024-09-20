@@ -53,7 +53,7 @@ A stock market analytics platform delivering real-time data insights powered by 
 ## 🏅 Certifications
 - **AWS Certified Solutions Architect**
 - **Google Cloud Professional Data Engineer**
-- **Python for Data Science** – Coursera
+- **Python for Data Science – Coursera**
 
 ---
 
@@ -89,14 +89,15 @@ A stock market analytics platform delivering real-time data insights powered by 
 ## 📬 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/malik-babu-b52579217/)  
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/malikbabupydev01)  
-- ✉️ Email: malikbabu@example.com  
+- ✉️ Email: malikbabupydev096@gmail.com  
 - 🐦 Twitter: [@malikbabu](https://twitter.com/malikbabu)
+- 🌐 personal blog website : [Quickupdate4you](https://www.quickupdate4you.com/)
 
 ---
 
 ## 📝 Blog & Articles
-- [Understanding Django Signals](https://exampleblog.com/django-signals)
-- [Building Scalable REST APIs with Python](https://exampleblog.com/rest-api-python)
+- [Understanding Django Signals]((https://www.quickupdate4you.com/)
+- [Building Scalable REST APIs with Python]((https://www.quickupdate4you.com/)
 
 ---
 
